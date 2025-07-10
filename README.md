@@ -4,12 +4,6 @@ A beautifully designed and fully functional calculator app built using **Flutter
 
 ---
 
-## 📱 Preview
-
-https://user-images.githubusercontent.com/your-demo-video-link-here.mp4 *(Add your demo video/GIF here if available)*
-
----
-
 ## ✨ Features
 
 - ✅ Basic arithmetic operations: `+`, `-`, `x`, `/`, `%`
